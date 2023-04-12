@@ -6,7 +6,7 @@ import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 
-public class ApiClient_II {
+public class main {
 
     private static final String JWT_BASE_URL = "";
     private static final String USER_AUTH_BASE_URL = "";
