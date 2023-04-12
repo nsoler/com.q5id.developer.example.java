@@ -8,8 +8,8 @@ import java.util.HashMap;
 
 public class main {
 
-    private static final String JWT_BASE_URL = "";
-    private static final String USER_AUTH_BASE_URL = "";
+    private static final String JWT_BASE_URL = "{host}/customer/connect/token";
+    private static final String USER_AUTH_BASE_URL = "{host}/authentication/tokens";
     private static final String CLIENT_ID = "";
     private static final String CLIENT_SECRET = "";
     private static final String VERSION = "2.5.1";
